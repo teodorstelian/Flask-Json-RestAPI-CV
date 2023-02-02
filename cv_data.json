@@ -1,0 +1,43 @@
+ {
+    "personal": {
+        "name": "Teodor-Stelian Baltaretu",
+        "email": "teodorstelian98@yahoo.com",
+        "location": "Cluj Napoca, Romania"
+    },
+    "experience": [
+        {
+            "company": "Groupe Luminess",
+            "position": "Python Software Engineer",
+            "dates": "May 2021 - Present",
+            "responsibilities": [
+                "Creating, testing, and debugging applications using Python",
+                "Involvement in the full circle of CI / CD",
+                "Testing, creating builds, and deploying using Jenkins and, RunDeck",
+                "Been part of a SCRUM team that focuses on developing an agile vision for the project",
+                "Mentorship to new members by integrating and improving them in new projects"
+            ]
+        },
+        {
+            "company": "Logiscool",
+            "position": "Information Technology Trainer",
+            "dates": "Sep 2019 - Feb 2020",
+            "responsibilities": [
+                "Teaching C++ and a tool similar to Scratch to children aged 6-18",
+                "Collaborate with cross-functional teams"
+            ]
+        }
+    ],
+    "education": [
+        {
+            "institution": "Technical University of Cluj Napoca",
+            "degree": "Bachelor of Automation",
+            "dates": "2017 - 2021"
+        },
+
+        {
+            "institution": "ICHB",
+            "degree": "High-school",
+            "dates": "2013 - 2017"
+        }
+    ]
+}
